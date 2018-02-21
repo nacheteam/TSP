@@ -1,2 +1,4 @@
 # TSP
-Repository to try different solutions to the TSP problem.
+
+## Ant Colony System
+The approach is to solve the problem using the ant colony algorithm.
