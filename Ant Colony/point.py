@@ -13,9 +13,3 @@ class Point:
     def RemovePheromone(self):
         if self.pheromone_number>0:
             self.pheromone_number-=1
-
-    def Iteration(self,add):
-        if add:
-            self.AddPheromone()
-        else:
-            self.RemovePheromone()
